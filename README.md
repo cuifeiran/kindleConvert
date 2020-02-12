@@ -7,7 +7,7 @@
 ### 计划把html格式的文件转换为类似原版的txt格式
 以便导入滴墨笔记app （笑） 
 
-### 需要安装bs4 
+### 下载kindleConvert.py（需要安装bs4） 
  pip install bs4
 ### 使用方法
 ![](https://raw.githubusercontent.com/cuifeiran/kindleConvert/master/src/1.png)
